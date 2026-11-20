@@ -4,12 +4,14 @@ height: 20
 spacing: 0,
 start:
 - type: "workspaces"
+  hidden:
+    - "special:magic"
 - type: focused
   show_icon: false
   icon_size: 16
   truncate:
     mode: end
-    max_length: 30
+    max_length: 60
 
 center:
 - type: clock
@@ -50,6 +52,8 @@ end:
       icons:
         volume: 󰕿
 
+- type: brightness
+  smooth_scroll_speed: 0.5
 - type: sys_info
   format:
   - '{cpu_percent}% '
@@ -58,3 +62,6 @@ end:
     cpu: 1
 
 - type: tray
+  on_click_left: "menu"
+  on_click_right: "default"
+  # on_click_left_double: "secondary"

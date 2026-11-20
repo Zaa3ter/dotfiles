@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <History>
+    <Navigation>
+      <Item Value="/var/cache/pacman/pkg/"/>
+      <Item Value="/run/media/zaater/HonorSuite      /"/>
+      <Item Value="/home/zaater/"/>
+      <Item Value="/home/zaater/app/"/>
+      <Item Value="/home/zaater/Desktop/"/>
+      <Item Value="/run/media/zaater/Ventoy/"/>
+      <Item Value="/home/zaater/dotfies/"/>
+      <Item Value="/home/"/>
+      <Item Value="/home/zaater/app/scripts/"/>
+      <Item Value="/home/zaater/doc/"/>
+      <Item Value="/"/>
+      <Item Value="/usr/"/>
+      <Item Value="/usr/include/"/>
+      <Item Value="/usr/include/acl/"/>
+      <Item Value="/usr/lib/"/>
+    </Navigation>
+    <CommandLine/>
+    <FileMask>
+      <Item Value="*"/>
+    </FileMask>
+    <VolumeSize/>
+    <CreateDirectories/>
+    <SearchText/>
+    <SearchTextPath/>
+    <ReplaceText/>
+    <ReplaceTextPath/>
+    <RenameNameMask/>
+    <RenameExtMask/>
+    <SearchDirectories/>
+    <SearchExcludeFiles/>
+    <SearchExcludeDirectories/>
+  </History>
+</doublecmd>

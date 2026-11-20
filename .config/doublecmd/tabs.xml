@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doublecmd>
+  <Tabs>
+    <OpenedTabs>
+      <Left>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>7</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry>
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib/doublecmd/</Path>
+                  <Path Filename="doublecmd">/usr/lib/</Path>
+                  <Path Filename="include">/usr/</Path>
+                  <Path Filename="acl">/usr/include/</Path>
+                  <Path Filename="..">/usr/include/acl/</Path>
+                  <Path Filename="aom">/usr/include/</Path>
+                  <Path Filename="include">/usr/</Path>
+                  <Path Filename="home">/</Path>
+                  <Path Filename="zaater">/home/</Path>
+                  <Path Filename="app">/home/zaater/</Path>
+                  <Path Filename="..">/home/zaater/app/</Path>
+                  <Path Filename="app">/home/zaater/</Path>
+                  <Path Filename="zaater">/home/</Path>
+                  <Path Filename="app">/home/zaater/</Path>
+                  <Path Filename="..">/home/zaater/app/</Path>
+                  <Path Filename="Desktop">/home/zaater/</Path>
+                  <Path Filename="..">/home/zaater/Desktop/</Path>
+                  <Path Filename="doc">/home/zaater/</Path>
+                  <Path Filename="..">/home/zaater/doc/</Path>
+                  <Path Filename="doc">/home/zaater/</Path>
+                  <Path Filename="..">/home/zaater/doc/</Path>
+                  <Path Filename="doc">/home/zaater/</Path>
+                  <Path Filename="..">/home/zaater/doc/</Path>
+                  <Path Filename="dotfies">/home/zaater/</Path>
+                  <Path Filename="..">/home/zaater/dotfies/</Path>
+                  <Path Filename="doc">/home/zaater/</Path>
+                  <Path Filename="..">/home/zaater/doc/</Path>
+                  <Path Filename="app">/home/zaater/</Path>
+                  <Path Filename="scripts">/home/zaater/app/</Path>
+                  <Path Filename="battery-warner.sh">/home/zaater/app/scripts/</Path>
+                  <Path Filename="scripts">/home/zaater/app/</Path>
+                  <Path Filename="brightness.sh">/home/zaater/app/scripts/</Path>
+                  <Path Filename="scripts">/home/zaater/app/</Path>
+                  <Path Filename="battery-warner.sh">/home/zaater/app/scripts/</Path>
+                  <Path Filename="scripts">/home/zaater/app/</Path>
+                  <Path Filename="dotfies">/home/zaater/</Path>
+                  <Path Filename="..">/home/zaater/dotfies/</Path>
+                  <Path Filename="app">/home/zaater/</Path>
+                  <Path Filename="..">/run/media/zaater/Ventoy/</Path>
+                  <Path Filename="..">/home/zaater/</Path>
+                  <Path Filename="..">/run/media/zaater/HonorSuite      /</Path>
+                  <Path Filename="..">/home/zaater/</Path>
+                  <Path Filename="..">/run/media/zaater/HonorSuite      /</Path>
+                  <Path Filename="..">/home/zaater/</Path>
+                  <Path Filename="..">/run/media/zaater/HonorSuite      /</Path>
+                  <Path Filename="Desktop">/home/zaater/</Path>
+                  <Path Filename="..">/home/zaater/Desktop/</Path>
+                  <Path Filename="app">/home/zaater/</Path>
+                  <Path Filename="battery-warner.sh">/home/zaater/app/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView/>
+          </FileView>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <Sortings>
+              <Sorting>
+                <Direction>1</Direction>
+                <Function>12</Function>
+              </Sorting>
+            </Sortings>
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path Filename="..">/usr/lib/doublecmd/</Path>
+                  <Path Filename="downloads">/home/zaater/</Path>
+                  <Path Filename="zaater">/home/</Path>
+                  <Path Filename="..">/home/zaater/</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+            </ColumnsView>
+          </FileView>
+        </Tab>
+      </Right>
+    </OpenedTabs>
+  </Tabs>
+</doublecmd>

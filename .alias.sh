@@ -3,12 +3,12 @@ alias zconf='nvim ~/.zshrc'
 alias van='nvim +Man!'
 alias iconf='nvim ~/.config/i3/config'
 alias iexit='i3-msg exit'
-alias ls='eza --icons=automatic'
+alias ls='eza --icons=auto'
 alias grep='grep --color=auto'
 alias ip='ip -color=auto'
-alias l='eza --icons=automatic'
-alias ll='eza -l --icons=automatic'
-alias la='eza -laa --icons=automatic'
+alias l='eza --icons=auto'
+alias ll='eza -l --icons=auto --time-style=relative'
+alias la='eza -laa --icons=auto --time-style=relative'
 alias cat='bat --plain'
 alias batt='bat -l conf'
 alias copy='xclip -selection clipboard'
@@ -20,10 +20,12 @@ alias tka='tmux kill-server'
 alias shell='exec $SHELL'
 alias open='xdg-open'
 alias img='nsxiv'
-alias mic='audiosource'
+alias mic='audiosource run'
 alias tirm="sed -z 's/^[[:space:]]*//;s/[[:space:]]*$//'"
 alias lg="lazygit"
 alias g="lazygit"
 alias yac="PAC_PACMAN='yay' pac"
 alias sys="systemctl-tui"
 alias sudo="sudo "
+alias dmusic="yt-dlp --cookies-from-browser firefox -x --audio-format mp3 --audio-quality 0 --embed-thumbnail --embed-metadata"
+alias size="duf"

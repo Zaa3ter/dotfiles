@@ -1,0 +1,73 @@
+[bar]
+scale = 0.800000011920929
+padding = 0.30000001192092896
+padding-ends = 0.20000000298023224
+module-gap = 0.30000001192092896
+bg = "transparent"
+button-label-weight = "bold"
+
+[[bar.layout]]
+monitor = "*"
+show = true
+left = [
+    "dashboard",
+    "hyprland-workspaces",
+    "window-title",
+]
+center = [
+    "notifications",
+    "clock",
+]
+right = [
+    "media",
+    "battery",
+    "volume",
+    "brightness",
+    "bluetooth",
+    "network",
+    "systray",
+]
+
+[styling.palette]
+bg = "#11111b"
+surface = "#181825"
+elevated = "#1e1e2e"
+fg = "#ffffff"
+fg-muted = "#bac2de"
+primary = "#b4befe"
+red = "#f38ba8"
+yellow = "#f9e2af"
+green = "#a6e3a1"
+blue = "#74c7ec"
+
+[modules.bluetooth]
+label-show = false
+right-click = "blueman-manager"
+
+[modules.clock]
+format = "%I:%M   %a %m/%d"
+icon-show = false
+label-color = "fg-default"
+
+[modules.hyprland-workspaces]
+show-special = false
+workspace-padding = 1.0
+occupied-color = "fg-default"
+
+[modules.media]
+format = "{{ title }}"
+label-color = "fg-default"
+label-max-length = 24
+
+[modules.notifications]
+label-show = false
+
+[modules.window-title]
+icon-show = false
+label-color = "fg-default"
+
+[modules.world-clock]
+icon-show = false
+
+[wallpaper]
+cycling-directory = "/home/zaater/media/pictures/backgrounds/Green-Moon.png"

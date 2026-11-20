@@ -54,18 +54,24 @@
 
 /* Base interactive elements (GTK Popups, Sliders, Switches) */
 scale > trough {
+	background-color: rgba(255, 255, 255, 0.2);
+    min-height: 4px;
     /* background-color: bkg; */
 }
 
 scale > trough > highlight {
-    /* background-color: var(--color-active); */
+	background-color: var(--color-active);
     border-style: solid;
-    /* border-color: var(--color-active); */
     border-width: 0.0em;
+    min-height: 4px;
 }
 
 scale > trough > slider,
 switch > slider {
+	background-color: var(--color-white);
+    min-width: 10px;
+    min-height: 10px;
+    border-radius: 100%;
     /* background-color: var(--color-white); */
 }
 

@@ -8,6 +8,11 @@ use = "yazi-rs/plugins:mount"
 rev = "4ffa48f"
 hash = "77e20b071404f97c09d3f9afdb9482e0"
 
+[[plugin.deps]]
+use = "Ape/smart-enter"
+rev = "1c835cc"
+hash = "d6d6fa001c2cda9dda6eb5bc6beb96b7"
+
 [[flavor.deps]]
 use = "yazi-rs/flavors:dracula"
 rev = "0670801"
